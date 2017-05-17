@@ -1,3 +1,4 @@
+//autor: Maksymilian Lach
 #include <ESP8266WiFi.h>
 #include <OneWire.h>
 #include <Wire.h>
